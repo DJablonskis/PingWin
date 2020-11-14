@@ -6,3 +6,5 @@ Discord Bot that converts coordinates in messages to usable links for browser ga
 ## Setup
 
 ## License
+
+[Apache License 2.0](/LICENSES)
