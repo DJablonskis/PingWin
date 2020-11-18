@@ -26,7 +26,7 @@ function getCoords(args, mapSize) {
 }
 
 function getLinks(flags, c, ws, message) {
-    const position = (ws.mapSize + 1 - c.y) * (ws.mapSize * 2 + 1) - ws.mapSize + 2 + c.x;
+    const position = (ws.mapSize + 1 - c.y) * (ws.mapSize * 2 + 1) - ws.mapSize + c.x;
 
     embed = new MessageEmbed()
         // Set the title of the field

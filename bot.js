@@ -6,7 +6,7 @@ const { Client, MessageEmbed } = require('discord.js');
 const client = new Client();
 
 const worldSettings = {
-    server: "https://tt.travian.com/",
+    server: "https://finals.travian.com/",
     mapSize: 400
 }
 
